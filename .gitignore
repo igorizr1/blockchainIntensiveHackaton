@@ -1,0 +1,4 @@
+node_modules
+web_api/node_modules
+.idea
+*/.idea
